@@ -415,6 +415,7 @@ main section {
     main {
         margin: 0px;
         margin-top: var(--panel-height);
+        padding: 50px;
     }
 
     .works {
