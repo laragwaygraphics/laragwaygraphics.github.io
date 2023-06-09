@@ -101,7 +101,6 @@ hr {
     font-size: 1rem;
     justify-content: center;
     margin: auto 0;
-    width: 100%;
 }
 
 #tagline {
@@ -147,7 +146,6 @@ main section {
     width: 100%;
     justify-content: center;
     box-sizing: border-box;
-    
 }
 
 .work-group, .one-content {
@@ -417,5 +415,9 @@ main section {
     main {
         margin: 0px;
         margin-top: var(--panel-height);
+    }
+
+    .works {
+        padding: 50px 0;
     }
 }
