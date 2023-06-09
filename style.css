@@ -415,10 +415,10 @@ main section {
     main {
         margin: 0px;
         margin-top: var(--panel-height);
-        padding: 50px;
+        padding: 50px 20px;
     }
 
     .works {
-        padding: 50px 0;
+        padding: 50px 0px;
     }
 }
